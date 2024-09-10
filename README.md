@@ -1,4 +1,4 @@
-# Arduino-based Smart Pet Collar
+# MyPerro: Smart Pet Collar
 
 ## Overview
 
